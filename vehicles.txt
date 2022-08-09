@@ -1,0 +1,201 @@
+ID	Type	Speed	UsageCost	Capacity	FuelCap
+1	Car	100	38.32	3	33
+2	Car	133	24.1	5	41
+3	Car	127	36.9	5	31
+4	Car	110	36.75	4	44
+5	Car	127	28.51	6	31
+6	Car	159	35.62	6	44
+7	Car	166	27.91	5	39
+8	Car	153	33	4	43
+9	Car	122	25.85	5	45
+10	Car	146	32.07	6	35
+11	Car	178	24.31	3	35
+12	Car	106	38.12	6	30
+13	Car	158	22.92	4	38
+14	Car	109	33.79	5	35
+15	Car	156	30.68	5	43
+16	Car	113	30.24	6	45
+17	Car	136	39.54	3	32
+18	Car	103	27.54	4	35
+19	Car	170	33.05	4	42
+20	Car	118	36.97	3	35
+21	Car	103	28.15	4	30
+22	Car	163	30.8	6	42
+23	Car	158	37.72	5	30
+24	Car	147	22.06	6	31
+25	Car	120	33.97	6	37
+26	Car	147	36.18	5	44
+27	Car	126	25.56	6	33
+28	Car	147	32.7	6	31
+29	Car	150	31.19	3	45
+30	Car	160	34.01	6	44
+31	Car	132	20.89	6	33
+32	Car	177	21.83	4	41
+33	Car	167	33.47	5	30
+34	Car	104	33.2	4	37
+35	Car	166	32.22	3	34
+36	Car	129	22.87	4	40
+37	Car	124	37.39	3	42
+38	Car	177	29.08	4	41
+39	Car	117	20.16	4	31
+40	Car	124	35.17	5	30
+41	Car	168	35.38	4	37
+42	Car	113	20.3	4	41
+43	Car	124	23.94	6	34
+44	Car	120	31.77	6	34
+45	Car	120	40.26	3	32
+46	Car	169	36.14	5	33
+47	Car	105	38.89	3	31
+48	Car	110	24.89	4	41
+49	Car	145	25.57	6	45
+50	Car	113	27.37	5	38
+51	Car	165	38.36	5	36
+52	Car	121	32.12	6	38
+53	Car	156	26.56	4	36
+54	Car	111	37.71	5	36
+55	Car	101	23.95	6	37
+56	Car	104	30.19	4	40
+57	Car	101	38.94	5	42
+58	Car	179	23.39	3	37
+59	Car	160	40.45	4	43
+60	Car	110	24.61	6	43
+61	Car	164	33.98	4	37
+62	Car	167	27.97	5	41
+63	Car	171	21.13	3	34
+64	Car	106	25.03	4	41
+65	Car	131	23.48	4	45
+66	Car	158	22.58	4	30
+67	Car	128	39.93	3	39
+68	Car	133	40.91	6	43
+69	Car	170	24.62	4	43
+70	Car	119	35.03	5	37
+71	Car	152	33.22	5	33
+72	Car	143	38.48	6	45
+73	Car	138	30.19	6	36
+74	Car	105	21.07	6	42
+75	Car	138	34.66	3	32
+76	Car	105	37.35	3	30
+77	Car	108	30.61	6	34
+78	Car	175	34.59	5	33
+79	Car	111	31.84	6	41
+80	Car	109	37.92	4	32
+81	Car	163	25.9	3	35
+82	Car	174	20.98	3	40
+83	Car	101	31.61	5	41
+84	Car	111	22.4	5	40
+85	Car	134	28.5	6	33
+86	Car	108	20.1	5	42
+87	Car	153	36.03	4	39
+88	Car	172	35.32	3	40
+89	Car	156	32.35	4	42
+90	Car	149	23.36	4	32
+91	Car	177	24.94	3	38
+92	Car	101	38.73	3	41
+93	Car	117	25.63	6	32
+94	Car	167	26.79	6	34
+95	Car	157	23.67	5	41
+96	Car	122	33.27	4	32
+97	Car	171	23.93	4	45
+98	Car	112	25.99	3	44
+99	Car	124	24.89	5	44
+100	Car	107	32.07	4	43
+101	Motorcycle	108	19.34		
+102	Motorcycle	125	17.11		
+103	Motorcycle	102	22.33		
+104	Motorcycle	103	30.53		
+105	Motorcycle	124	27.43		
+106	Motorcycle	124	17.2		
+107	Motorcycle	134	29.5		
+108	Motorcycle	176	17.05		
+109	Motorcycle	131	16.46		
+110	Motorcycle	159	19.8		
+111	Motorcycle	113	19.85		
+112	Motorcycle	141	25.19		
+113	Motorcycle	108	27.44		
+114	Motorcycle	161	18.08		
+115	Motorcycle	130	26.45		
+116	Motorcycle	170	20.92		
+117	Motorcycle	166	28.4		
+118	Motorcycle	104	27.57		
+119	Motorcycle	177	27.67		
+120	Motorcycle	115	24.04		
+121	Motorcycle	141	26.58		
+122	Motorcycle	176	25.06		
+123	Motorcycle	166	23.31		
+124	Motorcycle	160	28.92		
+125	Motorcycle	159	15.94		
+126	Motorcycle	109	29.11		
+127	Motorcycle	170	22.48		
+128	Motorcycle	132	20.73		
+129	Motorcycle	154	24.8		
+130	Motorcycle	103	30.15		
+131	Motorcycle	119	15.21		
+132	Motorcycle	134	28.88		
+133	Motorcycle	147	17.53		
+134	Motorcycle	114	16.33		
+135	Motorcycle	180	16.38		
+136	Motorcycle	169	28.07		
+137	Motorcycle	111	26.49		
+138	Motorcycle	116	29.34		
+139	Motorcycle	140	22.09		
+140	Motorcycle	150	28.81		
+141	Motorcycle	179	24.1		
+142	Motorcycle	116	19.7		
+143	Motorcycle	129	18.23		
+144	Motorcycle	152	28.95		
+145	Motorcycle	158	22.86		
+146	Motorcycle	178	29.29		
+147	Motorcycle	103	17.8		
+148	Motorcycle	144	22.43		
+149	Motorcycle	137	28.65		
+150	Motorcycle	164	24.07		
+151	Motorcycle	175	19.89		
+152	Motorcycle	165	27.58		
+153	Motorcycle	138	24.02		
+154	Motorcycle	100	24.92		
+155	Motorcycle	122	27.08		
+156	Motorcycle	107	24.52		
+157	Motorcycle	143	29.58		
+158	Motorcycle	159	17.52		
+159	Motorcycle	158	16.42		
+160	Motorcycle	168	16.11		
+161	Motorcycle	130	17.04		
+162	Motorcycle	151	29.52		
+163	Motorcycle	121	30.08		
+164	Motorcycle	125	26.59		
+165	Motorcycle	173	28.48		
+166	Motorcycle	154	23.88		
+167	Motorcycle	164	15.43		
+168	Motorcycle	161	17.54		
+169	Motorcycle	148	23.58		
+170	Motorcycle	137	15.37		
+171	Motorcycle	125	26.16		
+172	Motorcycle	124	19.59		
+173	Motorcycle	143	22.64		
+174	Motorcycle	163	22.67		
+175	Motorcycle	143	29.5		
+176	Motorcycle	117	21.84		
+177	Motorcycle	169	28.21		
+178	Motorcycle	153	30.54		
+179	Motorcycle	168	26.32		
+180	Motorcycle	101	16.74		
+181	Motorcycle	107	19.99		
+182	Motorcycle	100	27.35		
+183	Motorcycle	168	16.49		
+184	Motorcycle	131	15.91		
+185	Motorcycle	150	30.54		
+186	Motorcycle	166	23.25		
+187	Motorcycle	144	30.59		
+188	Motorcycle	102	30.77		
+189	Motorcycle	102	29.26		
+190	Motorcycle	104	22.37		
+191	Motorcycle	116	22.38		
+192	Motorcycle	163	18.1		
+193	Motorcycle	138	30.15		
+194	Motorcycle	123	22.43		
+195	Motorcycle	135	19.45		
+196	Motorcycle	134	18.17		
+197	Motorcycle	132	25.49		
+198	Motorcycle	148	21.85		
+199	Motorcycle	122	26.8		
+200	Motorcycle	113	23.88		

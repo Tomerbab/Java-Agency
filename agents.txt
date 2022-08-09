@@ -1,0 +1,201 @@
+Name	ID	Type	Experience	CanDrive	WeaponLicense	Contribution	Rank
+Alexine	10000	Detective	12	FALSE	FALSE		
+Dyann	10001	Detective	31	FALSE	TRUE		
+Vonny	10002	Detective	15	TRUE	FALSE		
+Shaylyn	10003	Detective	12	FALSE	TRUE		
+Tori	10004	Detective	40	TRUE	FALSE		
+Ida	10005	Detective	1	TRUE	FALSE		
+Brandise	10006	Detective	3	FALSE	FALSE		
+Luci	10007	Detective	18	FALSE	TRUE		
+Abbie	10008	Detective	35	TRUE	FALSE		
+Ernesta	10009	Detective	18	FALSE	FALSE		
+Rubie	10010	Detective	16	FALSE	TRUE		
+Dagmar	10011	Detective	29	TRUE	TRUE		
+Pollyanna	10012	Detective	8	TRUE	TRUE		
+Merle	10013	Detective	30	FALSE	FALSE		
+Vita	10014	Detective	13	TRUE	FALSE		
+Gui	10015	Detective	21	TRUE	FALSE		
+Althea	10016	Detective	34	FALSE	TRUE		
+Maud	10017	Detective	26	FALSE	FALSE		
+Tina	10018	Detective	14	FALSE	FALSE		
+Britni	10019	Detective	2	TRUE	FALSE		
+Elyssa	10020	Detective	40	FALSE	TRUE		
+Marcy	10021	Detective	6	TRUE	FALSE		
+Leontine	10022	Detective	14	TRUE	FALSE		
+Mildrid	10023	Detective	15	FALSE	TRUE		
+Tina	10024	Detective	11	TRUE	FALSE		
+Wanda	10025	Detective	28	TRUE	FALSE		
+Susette	10026	Detective	17	FALSE	FALSE		
+Valli	10027	Detective	22	FALSE	TRUE		
+Angela	10028	Detective	5	TRUE	FALSE		
+Sybille	10029	Detective	21	TRUE	FALSE		
+Barbi	10030	Detective	34	TRUE	FALSE		
+Iseabal	10031	Detective	14	FALSE	TRUE		
+Diena	10032	Detective	40	TRUE	FALSE		
+Anallese	10033	Detective	12	FALSE	TRUE		
+Britte	10034	Detective	38	FALSE	TRUE		
+Audrie	10035	Detective	2	FALSE	FALSE		
+Ethel	10036	Detective	13	FALSE	FALSE		
+Vinita	10037	Detective	8	TRUE	TRUE		
+Sean	10038	Detective	25	FALSE	FALSE		
+Basia	10039	Detective	37	TRUE	FALSE		
+Alex	10040	Detective	38	FALSE	FALSE		
+Clo	10041	Detective	1	FALSE	FALSE		
+Ebonee	10042	Detective	6	FALSE	FALSE		
+Anthia	10043	Detective	30	TRUE	FALSE		
+Tatiania	10044	Detective	38	FALSE	FALSE		
+Krystle	10045	Detective	34	FALSE	FALSE		
+Gerrie	10046	Detective	16	FALSE	TRUE		
+Atlanta	10047	Detective	37	FALSE	TRUE		
+Molli	10048	Detective	13	FALSE	TRUE		
+Eadie	10049	Detective	22	TRUE	TRUE		
+Brena	10050	Detective	36	TRUE	FALSE		
+Taffy	10051	Detective	39	FALSE	TRUE		
+Gerrie	10052	Detective	13	FALSE	FALSE		
+Concettina	10053	Detective	11	TRUE	FALSE		
+Joceline	10054	Detective	9	TRUE	TRUE		
+Hettie	10055	Detective	24	FALSE	FALSE		
+Susan	10056	Detective	18	TRUE	TRUE		
+Bettine	10057	Detective	37	TRUE	TRUE		
+Shauna	10058	Detective	33	FALSE	TRUE		
+Peri	10059	Detective	28	TRUE	TRUE		
+Angelique	10060	Detective	31	TRUE	TRUE		
+Inga	10061	Detective	5	TRUE	TRUE		
+Melodie	10062	Detective	10	TRUE	TRUE		
+Corly	10063	Detective	31	TRUE	FALSE		
+Magdalena	10064	Detective	16	FALSE	TRUE		
+Imojean	10065	Detective	37	FALSE	FALSE		
+Gilligan	10066	Detective	16	TRUE	FALSE		
+Henriette	10067	Detective	23	FALSE	TRUE		
+Dennie	10068	Detective	14	FALSE	TRUE		
+Shell	10069	Detective	31	FALSE	FALSE		
+Tera	10070	Detective	29	FALSE	FALSE		
+Madelle	10071	Detective	28	FALSE	FALSE		
+Dianemarie	10072	Detective	23	TRUE	FALSE		
+Carly	10073	Detective	29	FALSE	TRUE		
+Karena	10074	Detective	8	TRUE	FALSE		
+Myrtice	10075	Detective	9	FALSE	FALSE		
+Charmaine	10076	Detective	36	TRUE	FALSE		
+Dianemarie	10077	Detective	17	TRUE	TRUE		
+Raf	10078	Detective	18	FALSE	TRUE		
+Chrystel	10079	Detective	22	FALSE	TRUE		
+Violet	10080	Detective	8	FALSE	TRUE		
+Kelly	10081	Detective	40	FALSE	FALSE		
+Tybie	10082	Detective	31	FALSE	FALSE		
+Tressa	10083	Detective	25	FALSE	FALSE		
+Tonia	10084	Detective	17	FALSE	TRUE		
+Anallese	10085	Detective	7	TRUE	FALSE		
+Kenna	10086	Detective	14	FALSE	TRUE		
+Vere	10087	Detective	38	FALSE	FALSE		
+Sheelagh	10088	Detective	12	TRUE	TRUE		
+Arabel	10089	Detective	8	TRUE	TRUE		
+Tiffie	10090	Detective	10	TRUE	TRUE		
+Zia	10091	Detective	26	FALSE	FALSE		
+Debee	10092	Detective	17	TRUE	TRUE		
+Christal	10093	Detective	33	FALSE	TRUE		
+Kimmy	10094	Detective	8	FALSE	TRUE		
+Vanessa	10095	Detective	13	TRUE	FALSE		
+Ruthe	10096	Detective	3	TRUE	FALSE		
+Petronia	10097	Detective	26	FALSE	TRUE		
+Harmonia	10098	Detective	32	FALSE	TRUE		
+Adore	10099	Detective	14	FALSE	FALSE		
+Gilda	11000	Investigator	24	FALSE		3.61	8
+Dacia	11001	Investigator	22	FALSE		1.69	8
+Aili	11002	Investigator	34	FALSE		5.15	2
+Valli	11003	Investigator	2	TRUE		3.07	9
+Yetty	11004	Investigator	3	TRUE		6.79	5
+Kristina	11005	Investigator	22	TRUE		3	10
+Andeee	11006	Investigator	28	TRUE		3.98	3
+Elise	11007	Investigator	12	FALSE		6.56	8
+Philis	11008	Investigator	26	FALSE		5.69	9
+Stacey	11009	Investigator	14	FALSE		5.18	9
+Agnese	11010	Investigator	4	TRUE		2.52	10
+Sibella	11011	Investigator	37	FALSE		2.75	3
+Yolane	11012	Investigator	8	FALSE		6.39	9
+Merle	11013	Investigator	36	TRUE		4.69	10
+Sidoney	11014	Investigator	26	TRUE		6.14	4
+Lolita	11015	Investigator	17	TRUE		5.24	7
+Nerta	11016	Investigator	18	TRUE		4.44	1
+Fred	11017	Investigator	31	TRUE		3.04	9
+Katharina	11018	Investigator	12	FALSE		1.74	4
+Evaleen	11019	Investigator	9	FALSE		4.58	3
+Fidelia	11020	Investigator	13	FALSE		5.47	6
+Cathyleen	11021	Investigator	7	TRUE		6.14	6
+Shaine	11022	Investigator	11	FALSE		2.14	6
+Kirstin	11023	Investigator	11	FALSE		6.98	4
+Roz	11024	Investigator	29	FALSE		4.07	5
+Nonnah	11025	Investigator	16	TRUE		5.29	2
+Michaelina	11026	Investigator	40	TRUE		3.43	4
+Alleen	11027	Investigator	27	TRUE		1.19	4
+Josephine	11028	Investigator	32	FALSE		1.27	3
+Lanna	11029	Investigator	26	TRUE		2.59	6
+Caritta	11030	Investigator	33	TRUE		4.51	3
+Deirdre	11031	Investigator	1	FALSE		2.2	6
+Millie	11032	Investigator	33	TRUE		4.58	8
+Melanie	11033	Investigator	10	TRUE		3.87	10
+Elfreda	11034	Investigator	1	TRUE		6.71	8
+Linet	11035	Investigator	15	FALSE		2.66	10
+Peri	11036	Investigator	18	FALSE		5.6	1
+Berta	11037	Investigator	21	FALSE		3.11	4
+Robbi	11038	Investigator	34	FALSE		4.96	6
+Celestyna	11039	Investigator	14	FALSE		1.11	2
+Frances	11040	Investigator	17	FALSE		6.43	3
+Nyssa	11041	Investigator	21	FALSE		3.8	6
+Aurelie	11042	Investigator	37	FALSE		6.17	7
+Jobi	11043	Investigator	33	TRUE		5.07	4
+Gaylene	11044	Investigator	34	FALSE		4.85	8
+Edee	11045	Investigator	27	FALSE		4.98	6
+Britni	11046	Investigator	15	TRUE		3.87	5
+Gisela	11047	Investigator	30	TRUE		1.84	3
+Cherilyn	11048	Investigator	19	TRUE		1.4	9
+Tybie	11049	Investigator	14	TRUE		4.49	5
+Berta	11050	Investigator	17	FALSE		1.47	6
+Netty	11051	Investigator	4	TRUE		6.36	6
+Antonietta	11052	Investigator	15	FALSE		5.62	3
+Grier	11053	Investigator	25	TRUE		3.36	9
+Maud	11054	Investigator	19	FALSE		3.55	5
+Candi	11055	Investigator	1	FALSE		6.55	10
+Ofilia	11056	Investigator	26	TRUE		5.22	2
+Goldie	11057	Investigator	17	FALSE		5.07	5
+Dorene	11058	Investigator	32	TRUE		4.99	4
+Latisha	11059	Investigator	10	FALSE		1.03	9
+Lenna	11060	Investigator	22	FALSE		1.91	8
+Dorothy	11061	Investigator	24	TRUE		4.4	8
+Catharine	11062	Investigator	8	TRUE		1.3	5
+Shel	11063	Investigator	35	FALSE		2.2	10
+Lanae	11064	Investigator	18	FALSE		3.65	6
+Josephine	11065	Investigator	24	FALSE		4.88	8
+Joleen	11066	Investigator	32	TRUE		3.66	6
+Gilda	11067	Investigator	1	TRUE		4.54	5
+Rosanne	11068	Investigator	9	TRUE		5.24	3
+Chastity	11069	Investigator	23	TRUE		5.26	4
+Norine	11070	Investigator	24	FALSE		5.86	3
+Rozele	11071	Investigator	22	FALSE		1.19	3
+Julieta	11072	Investigator	8	FALSE		5.02	6
+Deloria	11073	Investigator	19	TRUE		6.06	4
+Annice	11074	Investigator	25	FALSE		5.45	3
+Vere	11075	Investigator	26	TRUE		5.72	3
+Kerrin	11076	Investigator	9	FALSE		2.89	1
+Luci	11077	Investigator	5	TRUE		4.44	4
+Annecorinne	11078	Investigator	4	TRUE		6.6	10
+Moyna	11079	Investigator	33	FALSE		4.2	9
+Flory	11080	Investigator	27	TRUE		1.43	10
+Dorthy	11081	Investigator	3	FALSE		6.22	3
+Natka	11082	Investigator	19	FALSE		3.82	10
+Carolina	11083	Investigator	27	FALSE		2.73	8
+Ebonee	11084	Investigator	2	FALSE		5.58	8
+Estell	11085	Investigator	31	FALSE		5.75	10
+Laurene	11086	Investigator	26	FALSE		6.66	7
+Suzette	11087	Investigator	20	TRUE		4.68	3
+Drucie	11088	Investigator	30	FALSE		5.1	2
+Anestassia	11089	Investigator	37	TRUE		1.15	5
+Kial	11090	Investigator	39	TRUE		2.7	2
+Tiffie	11091	Investigator	40	FALSE		2.05	9
+Bobinette	11092	Investigator	34	FALSE		4.44	1
+Hermione	11093	Investigator	35	TRUE		1.86	4
+Robinia	11094	Investigator	31	TRUE		2.79	2
+Tatiania	11095	Investigator	6	FALSE		5.58	6
+Kylynn	11096	Investigator	25	FALSE		6.49	4
+Ronna	11097	Investigator	14	TRUE		6.17	6
+Corene	11098	Investigator	30	FALSE		2.9	4
+Kaia	11099	Investigator	27	FALSE		2.47	1
